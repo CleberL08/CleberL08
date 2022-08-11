@@ -12,4 +12,4 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
  </div>
  
- <p style="color: #ff0000">aasdasd</p> 
+ <p style="color: #ff0000;">aasdasd</p> 
